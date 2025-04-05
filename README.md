@@ -1,6 +1,7 @@
 Spam Mail Prediction using Machine Learning
 
-#This project focuses on building a machine learning model to classify emails as spam or not spam using Logistic Regression. It leverages popular Python libraries for data processing, feature extraction, and model building
+#This project focuses on building a machine learning model to classify emails as spam or not spam using Logistic Regression. It leverages popular Python libraries for data processing, feature extraction, and model building.
+
 Key Features:
 
 1.Preprocessing of raw email text (removing stopwords, lowercasing, etc.)
